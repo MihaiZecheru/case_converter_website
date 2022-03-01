@@ -1,2 +1,4 @@
 # case_converter_website
-Website: https://converter.mzecheru.com
+
+Idea from jetbrains academy, made on WebStorm.
+URL: https://converter.mzecheru.com
